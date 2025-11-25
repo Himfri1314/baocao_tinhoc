@@ -60,6 +60,8 @@
         <p>    < /p></p>
         <p>  < /body></p>
         <p>< /html></p>
+        <p>Sơ đồ cây:</p>
+        <img src="LT2.png">
         <div id="wp-products">
     <h1 style="text-align:center;text-decorating: none; color: #243b9a; padding: 0 30px;">VẬN DỤNG</h1>
   </div>
