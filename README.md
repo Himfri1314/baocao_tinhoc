@@ -6,7 +6,7 @@
     <title>KHẢ HÂN</title>
     <style>
       body {
-        background-image: url('khahan1.png');
+        background-image: url('khahan.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -37,14 +37,14 @@
     <div class="background"></div>
     <div class="container">
         <div class="card">
-       <h1 style="text-decorating: none; color: white; padding: 0 50px;">NGUYỄN KHẢ HÂN</h1>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">🔰 Acc chính chủ 🔰</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">🍚👕🌾💵</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">Đối sao đáp vậy👍🏻</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">Vạn sự tùy duyên 😉</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">Chưa có chủ 💐</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">Kh sân , kh sĩ</p>
-       <p style="text-decorating: none; color: white; padding: 0 10px;">Kị like🙃</p>
+       <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 50px;">NGUYỄN KHẢ HÂN</h1>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">🔰 Acc chính chủ 🔰</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">🍚👕🌾💵</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Đối sao đáp vậy👍🏻</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Vạn sự tùy duyên 😉</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Chưa có chủ 💐</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Kh sân , kh sĩ</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Kị like🙃</p>
          </div>
         </div>
     </div>
