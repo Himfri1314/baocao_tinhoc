@@ -92,6 +92,3 @@
         <p>     < p>Phiên bản hiện tại là HTML5, ra đời năm 2014.< /p></p>
         <p>  < /body></p>
         <p>< /html></p>
-    </div>
-  </body>
-</html>
